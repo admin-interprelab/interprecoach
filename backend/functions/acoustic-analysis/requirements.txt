@@ -1,0 +1,4 @@
+functions-framework==3.*
+# In a real implementation, you would add audio processing libraries:
+# librosa
+# numpy

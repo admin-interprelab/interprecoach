@@ -1,0 +1,3 @@
+functions-framework==3.*
+# In a real implementation, you would add the Vertex AI SDK:
+# google-cloud-aiplatform
