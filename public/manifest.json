@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "InterpreCoach",
+  "version": "0.1.0",
+  "description": "An AI assistant for medical interpreters.",
+  "permissions": [
+    "activeTab",
+    "tabCapture",
+    "scripting"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "file.svg",
+      "48": "file.svg",
+      "128": "file.svg"
+    }
+  },
+  "icons": {
+    "16": "file.svg",
+    "48": "file.svg",
+    "128": "file.svg"
+  }
+}
