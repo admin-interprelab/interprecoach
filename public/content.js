@@ -1,0 +1,1 @@
+console.log("InterpreCoach content script loaded.");
